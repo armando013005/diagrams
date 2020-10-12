@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T15:30:27.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" version="13.7.8" etag="QWZWQiivDp8YhjspiIZI" type="github"><diagram id="nsQ4iUkvemq3fe9CPhuu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-12T16:34:47.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="ox85stUVzB9otD1rb91f" version="13.7.8" type="github">
+  <diagram id="nsQ4iUkvemq3fe9CPhuu" name="Page-1">
+    <mxGraphModel dx="1146" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-1" target="-9xFl6sMHpL0wtHJmS-I-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="125" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-1" target="-9xFl6sMHpL0wtHJmS-I-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="315" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-1" target="-9xFl6sMHpL0wtHJmS-I-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="505" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-1" target="-9xFl6sMHpL0wtHJmS-I-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="710" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-1" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif ; color: black&quot;&gt;Principales&amp;nbsp;Escuelas&amp;nbsp;Éticas&amp;nbsp;del&amp;nbsp;pensamiento&amp;nbsp;filosófico&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196" y="60" width="436" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-2" value="&lt;div&gt;método socrático por&amp;nbsp;&lt;span&gt;medio del cual dos personas dialoga y el&amp;nbsp;&lt;/span&gt;&lt;span&gt;maestro hace preguntas al discípulo de&amp;nbsp;&lt;/span&gt;&lt;span&gt;ese modo el discípulo encuentra el&amp;nbsp;&lt;/span&gt;&lt;span&gt;conocimiento en sí mismo la palabra&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-3" value="Es una teoría ética que considera que la felicidad es el bien que buscan por naturaleza los seres humanos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-4" value="&lt;div&gt;es la teoría ética que&amp;nbsp;&lt;span&gt;establece el placer como fin y&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&amp;nbsp;fundamento de la vida&lt;/span&gt;&lt;span&gt;&amp;nbsp;o como una actitud&amp;nbsp;&lt;/span&gt;&lt;span&gt;vital basada en la búsqueda del placer.&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-5" value="es una teoría ética que sostiene que el valor moral está determinado por consideraciones formales, y no materiales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-7" target="-9xFl6sMHpL0wtHJmS-I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-7" value="&lt;span style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Mayéutica&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-8" target="-9xFl6sMHpL0wtHJmS-I-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-8" value="&lt;span style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Eudemonismo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-9" target="-9xFl6sMHpL0wtHJmS-I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-9" value="&lt;span style=&quot;font-size: 10.0pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Hedonismo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9xFl6sMHpL0wtHJmS-I-10" target="-9xFl6sMHpL0wtHJmS-I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9xFl6sMHpL0wtHJmS-I-10" value="Formalismo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
