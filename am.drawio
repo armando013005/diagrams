@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T22:46:43.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" version="13.9.2" etag="jBDoodkYou2hDvQpAE-j" type="github"><diagram id="N4B2qegf66ZTnVH9yuMw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-10T23:11:41.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="6XmwsWjJXgJ3__Oz3yQg" version="13.9.2" type="github">
+  <diagram id="N4B2qegf66ZTnVH9yuMw" name="Page-1">
+    <mxGraphModel dx="1955" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-4" target="WX4wznEE-n7BYB6IwQ9Y-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-4" target="WX4wznEE-n7BYB6IwQ9Y-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="880" />
+              <mxPoint x="210" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.43;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-4" target="WX4wznEE-n7BYB6IwQ9Y-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-4" target="WX4wznEE-n7BYB6IwQ9Y-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.43;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-4" target="WX4wznEE-n7BYB6IwQ9Y-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="715.0446927374302" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="162" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.42857142857142855;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="100" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-18" target="WX4wznEE-n7BYB6IwQ9Y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-18" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;Narrativo&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-20" target="WX4wznEE-n7BYB6IwQ9Y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-20" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;Descriptivo&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-21" target="WX4wznEE-n7BYB6IwQ9Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-21" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;Expositivo&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-22" target="WX4wznEE-n7BYB6IwQ9Y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-22" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;Argumentativo &lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WX4wznEE-n7BYB6IwQ9Y-23" target="WX4wznEE-n7BYB6IwQ9Y-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-23" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;Diálogo&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-30" value="&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;arimo&amp;#34; , sans-serif&quot;&gt;los prototipos textuales&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-31" value="Significa intercambio comunicativo entre dos o mas hablantes, pero en un sentido estricto denota conversacion entre dos o mas personas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-32" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;font face=&quot;Arial, Tahoma, Helvetica, FreeSans, sans-serif&quot;&gt;&amp;nbsp;Tiene como finalidad persuadir o convencer al destinatario acerca del punto de vista del emisor, utilizando una redaccion correcta, es decir, el escrito debe ser coherente, adecuado y con elementos cohesionadores.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="660" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-33" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;font face=&quot;Arial, Tahoma, Helvetica, FreeSans, sans-serif&quot;&gt;Se define por la intención para que su receptor comprenda un fenómeno o acontecimiento, presenta el resultado de un estudio, una reflexion, una investigación o un trabajo sobre un asunto o tema para que lo conozcan.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="505" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-35" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;freesans&amp;#34; , sans-serif ; font-size: 13px&quot;&gt;Cuenta de manera ordenada un suceso o historia, ya sea real o imaginaria, intervienen personajes ficticios. Los elementos que se distinguen en una narración son: narrador, personajes, tiempo y lugar. Las narraciones se presentan con una introducción, nudo o desarrollo y un deselance.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WX4wznEE-n7BYB6IwQ9Y-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;font face=&quot;Arial, Tahoma, Helvetica, FreeSans, sans-serif&quot;&gt;Informa acerca de las características detalladas de algo o alguien, es decir, como es, ha sido o sera una persona, animal u objeto, real o imaginario, ya sea de manera objetiva o subjetiva.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="345" width="250" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
