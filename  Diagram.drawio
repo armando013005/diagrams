@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T17:16:15.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" version="13.9.6" etag="eISkQFfVWPFbSK7BKI_t" type="github"><diagram id="avQUzELsa8vahaLmIWgg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-25T17:52:13.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="f70rYp5O_D1DLyjIMRH0" version="13.9.6" type="github">
+  <diagram id="avQUzELsa8vahaLmIWgg" name="Page-1">
+    <mxGraphModel dx="1673" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qzvAiidzcy01PqiKtNMH-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="60" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="940" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="790" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="640" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="490" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="340" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="190" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;PROCESADOR DE TEXTO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;Permite buscar comandos y ejecutarlos desde ahí mismo. Su principal utilidad es que nos ahorra el tiempo de buscar en qué pestaña está cada comando&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="314" y="55" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;BUSCAR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188" y="80" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;COMO ACCEDER A MICROSOFT WORD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="980" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;TECLAS DE ATAJO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="830" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;BUSQUEDA INTELIGENTE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ECUACION DE LAPIZ&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188" y="525" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;MEJORA EN EL FORMATO DE FORMAS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-25" value="&lt;font style=&quot;font-size: 13px&quot;&gt;COMPARTIR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;: Directamente desde Word se pueden realizar búsquedas con la tecnología de Bing. Basta seleccionar una palabra y con el botón derecho elegir Búsqueda inteligente, se abrirá un panel con definiciones de la Wikipedia y otras páginas web con información relacionada.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="655" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Se pueden escribir ecuaciones matemáticas directamente sobre las pantallas táctiles. Word las transformará en texto.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="314" y="505" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Ahora al insertar formas desde la galería se puede elegir entre una serie de rellenos preestablecidos y también los colores del tema.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="314" y="355" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-29" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;se pueden&amp;nbsp;&lt;/span&gt;&lt;span&gt;compartir documentos con otros usuarios y todos podrán editarlo en tiempo&amp;nbsp;&lt;/span&gt;&lt;span&gt;real, es decir, de forma simultánea.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="314" y="205" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-30" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Los métodos abreviados de teclado, combinaciones de teclas o simplemente atajos de teclado nos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;permiten realizar tareas y acciones habituales directamente desde el teclado, algo que resultado muy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;práctico cuando estamos redactando o editando un documento de texto.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="820" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qzvAiidzcy01PqiKtNMH-31" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;1. Dando clic en el menú inicio (el aspecto puede cambiar dependiendo de la versión de Windows&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;que tengamos instalado), que se encuentra en la parte inferior izquierda de nuestra pantalla donde&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;podemos realizar cualquier de los siguientes procedimientos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;:&lt;/span&gt;&lt;span&gt;a) Buscando nosotros mismos, dando clic en la opción Todas las aplicaciones que al desplegarse&amp;nbsp;&lt;/span&gt;&lt;span&gt;muestra una lista con todos los programas que hay instalados, los vamos a encontrar muy&amp;nbsp;&lt;/span&gt;&lt;span&gt;comúnmente ordenados alfabéticamente. Buscamos con la letra W y aparecerá Word.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;b) La otra opción es dando el nombre de Word en la caja de búsqueda, el cual nos desplegará el&amp;nbsp;&lt;/span&gt;&lt;span&gt;nombre del programa basta con solo darle clic.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Otra forma de tener acceso a Word es darle clic al acceso directo que lo podemos encontrar en el&amp;nbsp;&lt;/span&gt;&lt;span&gt;escritorio .&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="955" width="490" height="195" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
