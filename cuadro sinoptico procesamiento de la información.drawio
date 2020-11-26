@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T18:14:38.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" version="13.10.3" etag="I-eM39V8iEpU9WsWss1D" type="github"><diagram id="wm-iKA7tQzXDBhonxPbS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T18:58:37.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="kymJCXUjjAbdJrqikLlJ" version="13.10.3" type="github">
+  <diagram id="wm-iKA7tQzXDBhonxPbS" name="Page-1">
+    <mxGraphModel dx="672" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PROCESAMIENTO DE LA INFORMACIÒN&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="65" width="40" height="615" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;CLASIFICACIÒN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;REGISTRO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;CODIFICACIÒN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;PROCESAMIENTO DE DATOS (TABULACIÒN)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="350" y="245" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="565" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Es la primera etapa para procesar la información. Los datos son valores que adoptan las variables. Por su puesto, si la variable es cualitativa el dato que se va a obtener es cualitativo también. De la misma forma se aplica a las variables cuantitativas.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;El registro de datos es la acción de poner en un soporte ya sea impreso (cuaderno) o digital (hoja de cálculo) todos los datos para poder analizarlos en su conjunto. Los datos deben anotarse de manera ordenada, como fueron recolectados.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="245" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Cuando estamos en presencia de datos cualitativos estos no pueden ser analizados sin antes asignarles un valor numérico. Por lo tanto, la codificación es la asignación de valores cuantitativos a las variables. Se realiza cuando se aplican entrevistas y encuestas, las cuales son características de las ciencias sociales.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="415" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TQW0TKc8YagVt9YHbvHF-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Una vez que se tengan valores numéricos se procesan los datos aplicando los análisis estadísticos pertinentes, para después ser representados por tablas, gráficas o esquemas. La tabulación puede realizarse de manera manual o electrónica. En caso de tener pocos datos se puede hacer de forma manual, pero si se tiene un conjunto grande de datos se debe realizar electrónicamente. existen programas como Excel o&amp;nbsp;Statistical Package for the Social Sciences(SPSS) para realizar esto.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="585" width="390" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
