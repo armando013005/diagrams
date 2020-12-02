@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T20:49:46.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="u3n2b73Kk8g2TwQiLR1e" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T20:50:44.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="VM72a-jnAqn6h8YgeRxm" version="13.10.4" type="github">
   <diagram id="QtzLHAa3QA-E5brwllaU" name="Page-1">
     <mxGraphModel dx="383" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,17 +34,17 @@
         <mxCell id="MbzXIfISA6B1HsUfldZK-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="905" width="20" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MbzXIfISA6B1HsUfldZK-5" value="&lt;p&gt;es el manejo de interacciones y relaciones de los miembros de la familia que estructuran una determinada organización al grupo&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="200" height="80" as="geometry" />
+        <mxCell id="MbzXIfISA6B1HsUfldZK-5" value="&lt;p&gt;es el manejo de interacciones y relaciones de los miembros de la familia que estructuran una determinada organización al grupo&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MbzXIfISA6B1HsUfldZK-6" value="se puede definir como los momentos que vive en el ambito escolar y las cosas que l enseñan sus maestros o amigos ya sea malo o bueno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="190" height="70" as="geometry" />
+        <mxCell id="MbzXIfISA6B1HsUfldZK-6" value="se puede definir como los momentos que vive en el ambito escolar y las cosas que l enseñan sus maestros o amigos ya sea malo o bueno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MbzXIfISA6B1HsUfldZK-7" value="esto es una de las mas importantes ya que dice como te vas a portar ya que la sociedad es la que dice que esta mal y que es bueno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="665" width="170" height="70" as="geometry" />
+        <mxCell id="MbzXIfISA6B1HsUfldZK-7" value="esto es una de las mas importantes ya que dice como te vas a portar ya que la sociedad es la que dice que esta mal y que es bueno" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="665" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MbzXIfISA6B1HsUfldZK-8" value="es como el adolescente va a estar influenciado con el gobierno y sus condiciones economicas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="920" width="150" height="60" as="geometry" />
+        <mxCell id="MbzXIfISA6B1HsUfldZK-8" value="es como el adolescente va a estar influenciado con el gobierno y sus condiciones economicas, y si es clase media, alta o baja" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
