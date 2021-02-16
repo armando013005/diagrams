@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T20:18:25.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" version="14.3.1" etag="pwh2tX133nTnm2aJB55G" type="github"><diagram id="rf68V2Mqo_ywrs_2sB0_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-16T21:27:50.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="akcS5mKB07Kko3cUC2CZ" version="14.3.1" type="github">
+  <diagram id="rf68V2Mqo_ywrs_2sB0_" name="Page-1">
+    <mxGraphModel dx="1808" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-1" value="&lt;font face=&quot;Verdana&quot;&gt;Clasificación de las ciencias y su objetivo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-4" target="oSA06GZHYyUCbXBBOr7E-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365" y="200" />
+              <mxPoint x="-660" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-4" target="oSA06GZHYyUCbXBBOr7E-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365" y="200" />
+              <mxPoint x="-390" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-4" target="oSA06GZHYyUCbXBBOr7E-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365" y="200" />
+              <mxPoint x="-136" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-4" value="&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;la ciencia en términos generales se divide en dos: Ciencias formales y ciencias fácticas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="140" width="650" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-6" target="oSA06GZHYyUCbXBBOr7E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-6" value="&lt;font face=&quot;Verdana&quot;&gt;ciencias formales&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-8" target="oSA06GZHYyUCbXBBOr7E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-8" value="&lt;font face=&quot;Verdana&quot;&gt;ciencias fáticas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-10" target="oSA06GZHYyUCbXBBOr7E-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-660" y="360" />
+              <mxPoint x="-412" y="360" />
+              <mxPoint x="-412" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-10" value="&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;son racionales,&lt;br&gt;sistemáticos y verificables, simplemente, no se ocupan de los hechos.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="280" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-12" target="oSA06GZHYyUCbXBBOr7E-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="360" />
+              <mxPoint x="-412" y="360" />
+              <mxPoint x="-412" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-12" value="&lt;font face=&quot;Verdana&quot;&gt;Se basan de manera fundamental en los hechos, en lo experimental y en lo material&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="280" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-15" target="oSA06GZHYyUCbXBBOr7E-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-413" y="420" />
+              <mxPoint x="-390" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-15" target="oSA06GZHYyUCbXBBOr7E-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-663" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-15" target="oSA06GZHYyUCbXBBOr7E-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="430" />
+              <mxPoint x="-125" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-15" value="&lt;font face=&quot;Verdana&quot;&gt;ejemplos&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-776" y="380" width="725" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-16" value="&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;la física, la química, la fisiología, la psicología, la economía, y las demás ciencias recurren a la estadística y la matemática, empleándolas como herramienta&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="440" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-19" target="oSA06GZHYyUCbXBBOr7E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-19" target="oSA06GZHYyUCbXBBOr7E-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-19" value="&lt;font face=&quot;Verdana&quot;&gt;las ciencias fáticas tienen dos ramas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-21" target="oSA06GZHYyUCbXBBOr7E-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-21" value="&lt;font face=&quot;Verdana&quot;&gt;fisicas&lt;br&gt;que se ocupan de las leyes fundamentales del universo perceptible&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-23" target="oSA06GZHYyUCbXBBOr7E-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-23" value="&lt;font face=&quot;Verdana&quot;&gt;naturales&lt;br&gt;que se ocupan de las leyes fundamentales de la vida como la conocemos.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="510" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-24" value="&lt;font face=&quot;Verdana&quot;&gt;ejemplos de las físicas son la astronomía y geología&lt;br&gt;de las naturales son la biología y la paleontología&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="620" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-26" target="oSA06GZHYyUCbXBBOr7E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-26" value="ciencias sociales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oSA06GZHYyUCbXBBOr7E-28" target="oSA06GZHYyUCbXBBOr7E-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-413" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-28" value="&lt;font face=&quot;Verdana&quot;&gt;estas ciencias se ocupan principalmente del estudio de la sociedad y de las relaciones humanas, a fin de aclarar la vida colectividad de los seres humanos, en el tiempo y en el espacio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="280" width="272.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oSA06GZHYyUCbXBBOr7E-31" value="Antropología, Educación,&amp;nbsp;Ciencia&lt;br/&gt;política,&amp;nbsp;Psicología" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="440" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
