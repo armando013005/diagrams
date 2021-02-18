@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T19:01:04.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" version="14.3.2" etag="JUDjpjaD9VlF4mJ-WZ2E" type="github"><diagram id="-hTzeB2JnbV2FeBUHKLq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-18T19:40:35.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68" etag="Q_g_cPCs3EY_96r3To2W" version="14.3.2" type="github">
+  <diagram id="-hTzeB2JnbV2FeBUHKLq" name="Page-1">
+    <mxGraphModel dx="1021" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-3" value="&lt;font style=&quot;font-size: 27px&quot;&gt;Software Educativo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="80" width="60" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-5" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Tipo Heurístico&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="90" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-6" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Predomina el aprendizaje experimental y por descubrimiento,&amp;nbsp;&lt;span&gt;donde el diseñador crea ambientes ricos en situaciones que el&amp;nbsp;&lt;/span&gt;usuario debe &lt;span&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;explorar para generar sus propias&amp;nbsp; conclusiones.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207" y="130" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-7" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Tipo Algorítmico&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="211" y="347.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-8" value="&lt;div&gt;&lt;span&gt;Predomina el aprendizaje vía transmisión del conocimiento&amp;nbsp;&lt;/span&gt;&lt;span&gt;desde quien sabe hacia quien desea saber&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="208" y="397.5" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="30" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-11" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Simuladores y juegos educativos:&lt;/b&gt; Estos software permiten la recreación de ambientes o situaciones en las que el usuario puede interactuar a través de la realidad virtual o la realidad aumentada.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436" y="60" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-12" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;lenguaje sintónico y micromundos exploratorios:&lt;/b&gt;&amp;nbsp;son pequeños programas interactivos que ayudan al estudiante a entender mejor un tema&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436" y="130" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-13" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;libros electrónicos de consulta:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Su objetivo es presentar&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;información al estudiante a partir del uso de texto, gráficos,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;animaciones, videos, pero con un nivel de interactividad y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;span&gt;motivación que les facilite las acciones de consulta que realiza.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="341" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-14" value="&lt;font&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;Sistemas Expertos:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Su característica principal consiste en&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;permitir interpretar la realidad que se aprecia en el entorno&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;virtual y razonar debido a una base de conocimientos que&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;contiene, gracias a la cual se puede considerar al estudiante&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;como experto en un tema específico.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="443" y="190" width="300" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-15" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;sistemas de ejercitación y practica&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;&lt;span style=&quot;font-size: 11px&quot;&gt;Sirve como una labor para&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;reforzar el aprendizaje; trata de que los usuarios adquieran una&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;habilidad sobre algo realizando ejercicios.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442" y="347.5" width="288" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mp7bVMiqD9iyJEJCPk8_-16" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Sistema Tutorial:&lt;/b&gt;&amp;nbsp;Un tutorial es una herramienta que transmite conocimientos funcionando como un educador.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="446" y="300" width="294" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
